@@ -13,6 +13,7 @@ let err_count (l1: string) (l2) =
   make_list l1
   |> List.fold_left2 eq_counter "" l2;;
 
+
 let diff l1 l2 =
   make_list l2
   |> err_count l1 ;;
