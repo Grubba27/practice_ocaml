@@ -13,12 +13,12 @@ let err_count (l1: string) (l2) =
   make_list l1
   |> List.fold_left2 eq_counter "" l2;;
 
-let err_diff l1 l2 =
+let diff l1 l2 =
   make_list l2
   |> err_count l1 ;;
 
 let hamming_distance l1 l2 =
-  err_diff l1 l2
+  diff l1 l2
     |> make_list
     |> List.length;;
 
