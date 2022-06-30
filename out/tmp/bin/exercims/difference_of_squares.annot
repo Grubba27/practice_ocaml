@@ -1,0 +1,1092 @@
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 26 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 30
+type(
+  int -> int -> int List.t
+)
+ident(
+  def -- "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 130 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 31 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 32
+type(
+  int
+)
+ident(
+  def i "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 33 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 33 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 34
+type(
+  int
+)
+ident(
+  def j "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 49 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 52
+type(
+  int -> int List.t -> int List.t
+)
+ident(
+  def aux "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 53 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 54
+type(
+  int
+)
+ident(
+  def n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 110
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 58
+type(
+  int List.t
+)
+ident(
+  def acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 67 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 110
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 70 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 71
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 53 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 54
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 72 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 73
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( < ) "stdlib.mli" 135 5721 5721 "stdlib.mli" 135 5721 5768
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 74 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 75
+type(
+  int
+)
+ident(
+  int_ref i "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 31 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 32
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 70 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 75
+type(
+  bool
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 81 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 84
+type(
+  int List.t
+)
+ident(
+  int_ref acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 58
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 90 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 93
+type(
+  int -> int List.t -> int List.t
+)
+ident(
+  int_ref aux "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 49 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 52
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 95 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 96
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 53 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 54
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 96 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 97
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 346 13584 13584 "stdlib.mli" 346 13584 13630
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 97 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 98
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 94 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 99
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 101 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 102
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 53 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 54
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 106 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 109
+type(
+  int List.t
+)
+ident(
+  int_ref acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 58
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 100 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 110
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 90 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 110
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 67 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 5 61 110
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 118 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 121
+type(
+  int -> int List.t -> int List.t
+)
+ident(
+  int_ref aux "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 49 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 52
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 122 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 123
+type(
+  int
+)
+ident(
+  int_ref j "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 33 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 34
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 124 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 118 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 4 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 6 111 126
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 134 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 139
+type(
+  int -> int -> int List.t
+)
+ident(
+  def range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 155 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 140 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 141
+type(
+  int
+)
+ident(
+  def s "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 142 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 152
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 142 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 143
+type(
+  int
+)
+ident(
+  def e "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 146 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 152
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 147 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 148
+type(
+  int
+)
+ident(
+  int_ref s "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 140 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 141
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 148 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 150
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref -- "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 26 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 30
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 150 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 151
+type(
+  int
+)
+ident(
+  int_ref e "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 142 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 143
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 146 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 152
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 159 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 160
+type(
+  int List.t
+)
+ident(
+  def r "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 177 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 163 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 168
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 134 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 169 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 170
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 171 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 173
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 163 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 173
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 181 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 183
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 186 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 195
+type(
+  (int -> unit) -> int List.t -> unit
+)
+ident(
+  int_ref Stdlib.List.iter "list.mli" 108 4152 4152 "list.mli" 108 4152 4194
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 197 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 203
+type(
+  (int -> unit, out_channel, unit) format -> int -> unit
+)
+ident(
+  int_ref Stdlib.Printf.printf "printf.mli" 129 6889 6889 "printf.mli" 129 6889 6938
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 204 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 209
+type(
+  (int -> unit, out_channel, unit) format
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 196 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 210
+type(
+  int -> unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 211 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 212
+type(
+  int List.t
+)
+ident(
+  int_ref r "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 159 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 8 155 160
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 186 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 10 177 212
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 219 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 221
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 224 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 237
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 238 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 249
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 224 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 11 215 249
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 255 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 261
+type(
+  int -> int
+)
+ident(
+  def square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 284 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 262 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 266
+type(
+  int
+)
+ident(
+  def base "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 269 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 280
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 269 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 273
+type(
+  int
+)
+ident(
+  int_ref base "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 262 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 266
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 274 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 275
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( * ) "stdlib.mli" 351 13738 13738 "stdlib.mli" 351 13738 13784
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 276 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 280
+type(
+  int
+)
+ident(
+  int_ref base "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 262 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 266
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 269 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 280
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 288 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 289
+type(
+  int
+)
+ident(
+  def p "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 304 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 292 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 298
+type(
+  int -> int
+)
+ident(
+  int_ref square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 255 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 261
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 299 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 300
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 292 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 300
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 308 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 310
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 313 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 322
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 323 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 324
+type(
+  int
+)
+ident(
+  int_ref p "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 288 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 15 284 289
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 313 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 17 304 324
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 331 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 333
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 336 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 349
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 350 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 359
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 336 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 18 327 359
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+type(
+  int list -> int
+)
+ident(
+  def list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 400 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 377 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 391
+type(
+  (int -> int -> int) -> int -> int list -> int
+)
+ident(
+  int_ref Stdlib.List.fold_left "list.mli" 157 5882 5882 "list.mli" 157 5882 5937
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 392 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 395
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( + ) "stdlib.mli" 341 13435 13435 "stdlib.mli" 341 13435 13481
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 396 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 397
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 377 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 397
+type(
+  int list -> int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 404 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 406
+type(
+  int
+)
+ident(
+  def ls "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 428 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 409 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 417
+type(
+  int List.t -> int
+)
+ident(
+  int_ref list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 419 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 420
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 420 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 422
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref -- "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 26 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 30
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 422 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 423
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 418 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 424
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 409 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 424
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 432 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 434
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 437 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 446
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 447 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 449
+type(
+  int
+)
+ident(
+  int_ref ls "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 404 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 22 400 406
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 437 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 24 428 449
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 456 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 458
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 461 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 474
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 475 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 481
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 461 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 25 452 481
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 487 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 498
+type(
+  int list -> int list
+)
+ident(
+  def list_square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 523 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 499 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 500
+type(
+  int list
+)
+ident(
+  def l "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 503 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 520
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 503 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 511
+type(
+  (int -> int) -> int list -> int list
+)
+ident(
+  int_ref Stdlib.List.map "list.mli" 120 4583 4583 "list.mli" 120 4583 4625
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 512 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 518
+type(
+  int -> int
+)
+ident(
+  int_ref square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 255 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 261
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 519 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 520
+type(
+  int list
+)
+ident(
+  int_ref l "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 499 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 500
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 503 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 520
+type(
+  int list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 527 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 535
+type(
+  int list
+)
+ident(
+  def l_square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 560 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 538 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 549
+type(
+  int List.t -> int list
+)
+ident(
+  int_ref list_square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 487 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 498
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 551 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 552
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 552 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 554
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref -- "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 26 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 3 22 30
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 554 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 555
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 550 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 556
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 538 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 556
+type(
+  int list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 564 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 566
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 570 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 578
+type(
+  int list
+)
+ident(
+  int_ref l_square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 527 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 28 523 535
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 579 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 581
+type(
+  int list -> (int list -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 582 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 590
+type(
+  int list -> int
+)
+ident(
+  int_ref list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 570 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 590
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 591 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 593
+type(
+  int -> (int -> unit) -> unit
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 594 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 603
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 570 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 30 560 603
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 611 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 613
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 616 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 629
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 630 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 644
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 616 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 31 607 644
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 33 646 650 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 33 646 662
+type(
+  int
+)
+ident(
+  def sum_of_range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 693 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 666 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 671
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 134 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 672 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 673
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 674 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 676
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 666 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 676
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 677 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 679
+type(
+  int List.t -> (int List.t -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 680 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 688
+type(
+  int List.t -> int
+)
+ident(
+  int_ref list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 666 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 34 665 688
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 697 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 699
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 702 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 711
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 712 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 724
+type(
+  int
+)
+ident(
+  int_ref sum_of_range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 33 646 650 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 33 646 662
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 702 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 36 693 724
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 731 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 733
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 736 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 749
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 750 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 765
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 736 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 37 727 765
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 771 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 784
+type(
+  int -> int
+)
+ident(
+  def square_of_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 831 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 785 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 786
+type(
+  int
+)
+ident(
+  def n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 791 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 826
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 791 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 796
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 134 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 797 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 798
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 799 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 800
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 785 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 786
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 791 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 800
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 41 801 803 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 41 801 805
+type(
+  int List.t -> (int List.t -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 41 801 806 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 41 801 814
+type(
+  int List.t -> int
+)
+ident(
+  int_ref list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 791 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 41 801 814
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 817 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 819
+type(
+  int -> (int -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 820 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 826
+type(
+  int -> int
+)
+ident(
+  int_ref square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 255 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 13 251 261
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 40 789 791 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 42 815 826
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 835 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 837
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 840 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 853
+type(
+  int -> int
+)
+ident(
+  int_ref square_of_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 771 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 784
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 854 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 856
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 840 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 856
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 857 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 859
+type(
+  int -> (int -> unit) -> unit
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 860 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 869
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 840 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 44 831 869
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 877 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 879
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 882 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 895
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 896 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 912
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 882 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 45 873 912
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 918 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 932
+type(
+  int -> int
+)
+ident(
+  def sum_of_squares "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 984 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 933 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 934
+type(
+  int
+)
+ident(
+  def n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 939 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 979
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 939 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 944
+type(
+  int -> int -> int List.t
+)
+ident(
+  int_ref range "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 134 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 7 130 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 945 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 946
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 947 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 948
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 933 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 934
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 939 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 948
+type(
+  int List.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 49 949 951 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 49 949 953
+type(
+  int List.t -> (int List.t -> int list) -> int list
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 49 949 954 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 49 949 965
+type(
+  int List.t -> int list
+)
+ident(
+  int_ref list_square "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 487 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 27 483 498
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 939 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 49 949 965
+type(
+  int list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 968 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 970
+type(
+  int list -> (int list -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 971 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 979
+type(
+  int list -> int
+)
+ident(
+  int_ref list_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 366 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 21 362 374
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 48 937 939 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 50 966 979
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 988 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 990
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 993 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1007
+type(
+  int -> int
+)
+ident(
+  int_ref sum_of_squares "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 918 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 932
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1008 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1010
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 993 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1010
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1011 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1013
+type(
+  int -> (int -> unit) -> unit
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1014 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1023
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 993 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 52 984 1023
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1031 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1033
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1036 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1049
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1050 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1067
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1036 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 53 1027 1067
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1073 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1094
+type(
+  int -> int
+)
+ident(
+  def difference_of_squares "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1141 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1095 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1096
+type(
+  int
+)
+ident(
+  def n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1101 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1102 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1115
+type(
+  int -> int
+)
+ident(
+  int_ref square_of_sum "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 771 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 39 767 784
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1116 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1117
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1095 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1096
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1101 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1118
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1119 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1120
+type(
+  int -> int -> int
+)
+ident(
+  int_ref Stdlib.( - ) "stdlib.mli" 346 13584 13584 "stdlib.mli" 346 13584 13630
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1122 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1136
+type(
+  int -> int
+)
+ident(
+  int_ref sum_of_squares "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 918 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 47 914 932
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1137 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1138
+type(
+  int
+)
+ident(
+  int_ref n "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1095 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1096
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1121 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1139
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1101 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 56 1099 1139
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1145 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1147
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1150 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1171
+type(
+  int -> int
+)
+ident(
+  int_ref difference_of_squares "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1073 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 55 1069 1094
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1172 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1174
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1150 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1174
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1175 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1177
+type(
+  int -> (int -> unit) -> unit
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1178 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1187
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1150 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 58 1141 1187
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1195 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1197
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1200 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1213
+type(
+  string -> unit
+)
+ident(
+  int_ref Stdlib.print_endline "stdlib.mli" 830 30551 30551 "stdlib.mli" 830 30551 30585
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1214 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1223
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1200 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/difference_of_squares.ml" 59 1191 1223
+type(
+  unit
+)

@@ -1,0 +1,490 @@
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 50
+type(
+  String.t -> string list
+)
+ident(
+  def make_list "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 121 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 51 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 52
+type(
+  String.t
+)
+ident(
+  def l "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 117
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 68
+type(
+  String.t -> char Seq.t
+)
+ident(
+  int_ref Stdlib.String.to_seq "string.mli" 320 13661 13661 "string.mli" 320 13661 13689
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 69 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 70
+type(
+  String.t
+)
+ident(
+  int_ref l "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 51 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 52
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 70
+type(
+  char Seq.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 4 71 73 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 4 71 75
+type(
+  char Seq.t -> (char Seq.t -> char list) -> char list
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 4 71 76 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 4 71 87
+type(
+  char Seq.t -> char list
+)
+ident(
+  int_ref Stdlib.List.of_seq "list.mli" 394 14489 14489 "list.mli" 394 14489 14521
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 4 71 87
+type(
+  char list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 90 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 92
+type(
+  char list -> (char list -> string list) -> string list
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 93 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 101
+type(
+  (char -> string) -> char list -> string list
+)
+ident(
+  int_ref Stdlib.List.map "list.mli" 120 4583 4583 "list.mli" 120 4583 4625
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 103 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 114
+type(
+  int -> char -> string
+)
+ident(
+  int_ref Stdlib.String.make "string.mli" 75 3836 3836 "string.mli" 75 3836 3868
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 115 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 116
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 102 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 117
+type(
+  char -> string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 93 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 117
+type(
+  char list -> string list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 55 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 5 88 117
+type(
+  string list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 125 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 135
+type(
+  string -> String.t -> String.t -> string
+)
+ident(
+  def eq_counter "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 215 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 136 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 139
+type(
+  string
+)
+ident(
+  def acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 140 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 140 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 142
+type(
+  String.t
+)
+ident(
+  def l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 143 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 143 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 145
+type(
+  String.t
+)
+ident(
+  def l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 151 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 154 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 168
+type(
+  String.t -> String.t -> int
+)
+ident(
+  int_ref Stdlib.String.compare "string.mli" 293 12724 12724 "string.mli" 293 12724 12750
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 169 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 171
+type(
+  String.t
+)
+ident(
+  int_ref l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 140 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 142
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 172 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 174
+type(
+  String.t
+)
+ident(
+  int_ref l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 143 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 145
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 154 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 174
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 175 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 177
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref Stdlib.( == ) "stdlib.mli" 191 8127 8127 "stdlib.mli" 191 8127 8169
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 178 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 179
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 154 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 179
+type(
+  bool
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 9 180 189 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 9 180 192
+type(
+  string
+)
+ident(
+  int_ref acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 136 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 202 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 205
+type(
+  string
+)
+ident(
+  int_ref acc "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 136 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 139
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 206 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 207
+type(
+  string -> string -> string
+)
+ident(
+  int_ref Stdlib.( ^ ) "stdlib.mli" 666 25424 25424 "stdlib.mli" 666 25424 25462
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 208 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 202 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 8 149 151 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 10 193 211
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 219 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 228
+type(
+  string -> String.t list -> string
+)
+ident(
+  def err_count "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 306 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 230 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 232
+type(
+  string
+)
+type(
+  string
+)
+ident(
+  def l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 242 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 301
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 242 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 246
+type(
+  String.t list
+)
+ident(
+  def l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 251 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 301
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 251 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 260
+type(
+  String.t -> String.t list
+)
+ident(
+  int_ref make_list "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 50
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 261 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 263
+type(
+  String.t
+)
+ident(
+  int_ref l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 230 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 232
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 251 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 263
+type(
+  String.t list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 266 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 268
+type(
+  String.t list -> (String.t list -> string) -> string
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 269 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 284
+type(
+  (string -> String.t -> String.t -> string) ->
+  string -> String.t list -> String.t list -> string
+)
+ident(
+  int_ref Stdlib.List.fold_left2 "list.mli" 186 6927 6927 "list.mli" 186 6927 7000
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 285 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 295
+type(
+  string -> String.t -> String.t -> string
+)
+ident(
+  int_ref eq_counter "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 125 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 7 121 135
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 296 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 298
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 299 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 301
+type(
+  String.t list
+)
+ident(
+  int_ref l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 242 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 246
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 269 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 301
+type(
+  String.t list -> string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 13 249 251 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 14 264 301
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 310 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 314
+type(
+  string -> String.t -> string
+)
+ident(
+  def diff "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 360 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 315 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 317
+type(
+  string
+)
+ident(
+  def l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 318 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 355
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 318 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 320
+type(
+  String.t
+)
+ident(
+  def l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 325 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 355
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 325 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 334
+type(
+  String.t -> String.t list
+)
+ident(
+  int_ref make_list "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 50
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 335 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 337
+type(
+  String.t
+)
+ident(
+  int_ref l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 318 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 320
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 325 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 337
+type(
+  String.t list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 340 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 342
+type(
+  String.t list -> (String.t list -> string) -> string
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 343 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 352
+type(
+  string -> String.t list -> string
+)
+ident(
+  int_ref err_count "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 219 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 12 215 228
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 353 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 355
+type(
+  string
+)
+ident(
+  int_ref l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 315 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 317
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 343 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 355
+type(
+  String.t list -> string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 18 323 325 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 19 338 355
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 364 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 380
+type(
+  string -> String.t -> int
+)
+ident(
+  def hamming_distance "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 441 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 381 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 383
+type(
+  string
+)
+ident(
+  def l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 384 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 437
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 384 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 386
+type(
+  String.t
+)
+ident(
+  def l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 391 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 437
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 391 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 395
+type(
+  string -> String.t -> String.t
+)
+ident(
+  int_ref diff "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 310 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 17 306 314
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 396 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 398
+type(
+  string
+)
+ident(
+  int_ref l1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 381 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 383
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 399 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 401
+type(
+  String.t
+)
+ident(
+  int_ref l2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 384 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 386
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 391 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 401
+type(
+  String.t
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 23 402 406 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 23 402 408
+type(
+  String.t -> (String.t -> string list) -> string list
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 23 402 409 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 23 402 418
+type(
+  String.t -> string list
+)
+ident(
+  int_ref make_list "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 41 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 3 37 50
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 391 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 23 402 418
+type(
+  string list
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 423 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 425
+type(
+  string list -> (string list -> int) -> int
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 426 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 437
+type(
+  string list -> int
+)
+ident(
+  int_ref Stdlib.List.length "list.mli" 32 1730 1730 "list.mli" 32 1730 1757
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 22 389 391 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 24 419 437
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 445 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 450
+type(
+  string
+)
+ident(
+  def list1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 457 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 453 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 456
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 461 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 466
+type(
+  string
+)
+ident(
+  def list2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 474 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 0 0 -1
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 469 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 472
+type(
+  string
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 478 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 480
+type(
+  unit
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 483 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 499
+type(
+  string -> String.t -> int
+)
+ident(
+  int_ref hamming_distance "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 364 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 21 360 380
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 500 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 505
+type(
+  string
+)
+ident(
+  int_ref list1 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 445 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 26 441 450
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 506 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 511
+type(
+  String.t
+)
+ident(
+  int_ref list2 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 461 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 27 457 466
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 483 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 511
+type(
+  int
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 512 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 514
+type(
+  int -> (int -> unit) -> unit
+)
+ident(
+  int_ref Stdlib.( |> ) "stdlib.mli" 303 12306 12306 "stdlib.mli" 303 12306 12360
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 515 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 524
+type(
+  int -> unit
+)
+ident(
+  int_ref Stdlib.print_int "stdlib.mli" 824 30362 30362 "stdlib.mli" 824 30362 30389
+)
+"/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 483 "/Users/gabrielgrubba/Desktop/projetos/ocaml-training/practice/out/tmp/bin/exercims/hamming.ml" 29 474 524
+type(
+  unit
+)
