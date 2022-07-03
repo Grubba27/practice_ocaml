@@ -1,1 +1,1 @@
-let () = print_endline "opa"
+let () = print_endline "foo"
