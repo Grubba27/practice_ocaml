@@ -1,1 +1,1 @@
-let () = print_endline "Opa mundão"
+let () = print_endline "opa"
